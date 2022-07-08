@@ -3,7 +3,7 @@
 - 👀 I’m interested in... everything! Focusing on new age games and human & environmental impact projects.
 - 🌱 I’m currently learning Javascript, Node, React, React Native, databases, Cloud hosting, middleware, various game engines
 - 💞️ I’m looking to collaborate on anything per my skill level
-- 📫 Reach me on twitter @astralvitz
+- 📫 Reach me on twitter https://twitter.com/astralvitz
 - 📝 Journaling my development journey https://astralvitz.github.io/
 
 <!---
