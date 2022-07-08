@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Javascript, Node, React, React Native, databases, Cloud hosting, middleware, various game engines
 - 💞️ I’m looking to collaborate on anything per my skill level
 - 📫 Reach me on twitter @astralvitz
+- 📝 Journaling my development journey https://astralvitz.github.io/
 
 <!---
 astralvitz/astralvitz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
