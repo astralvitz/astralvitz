@@ -1,5 +1,5 @@
 # App Ideas - Intro
-A running incomplete list of apps I've had. Nothing necessarily spectacular but deciding now in July 2022 to list out some of my ideas of the last decade both for my own edification and to perhaps share them to co-create. Perhaps I begin and open-source them, sell/offer them, or just keep sitting on them.
+A running incomplete list of apps I've had. Nothing necessarily spectacular but deciding now in July 2022 to list out some of my ideas of the last decade both for my own edification and to perhaps share them to co-create. Perhaps I begin and open-source them, sell/offer them, or just keep sitting on them as I continue to get new ideas.
 
 ## App Ideas
 (will add descriptions and continually update list over time)

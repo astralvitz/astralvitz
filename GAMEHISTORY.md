@@ -5,6 +5,10 @@ I should determine to make games using my vast experience and deep understanding
 
 ## Game List (forever incomplete)
 
+*Alpha/Beta tests*
+- World of Warcraft (2004, and many expansions)
+- New World (2020, 2021)
+
 *Playstation 1*
 - The Legend of Dragoon
 - Final Fantasy 7

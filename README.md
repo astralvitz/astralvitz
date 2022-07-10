@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Lavitz Star @astralvitz
 - 💫 I'm returning to coding after a year+ hiatus
 - 👀 I’m interested in... everything! Focusing on new age games and human & environmental impact projects.
-- 🌱 I’m currently learning Javascript, Node, React, React Native, databases, Cloud hosting, middleware, various game engines
-- 💞️ I’m looking to collaborate on anything per my skill level
+- 🌱 I’m currently learning Javascript, Node, React, React Native, databases, Cloud hosting, web3 & smart contrats, middleware, various game engines
+- 💞️ I’m looking to collaborate on most anything to develop my skills
 - 📫 Reach me on twitter https://twitter.com/astralvitz
 - 📝 Journaling my development journey https://astralvitz.github.io/
 - 💡 Some game & app ideas & other things: https://github.com/astralvitz/astralvitz/

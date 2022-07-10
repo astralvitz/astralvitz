@@ -1,8 +1,6 @@
 # Game Ideas - Intro
 A running incomplete list of ideas for games and mods I've had. It is extremely difficult to convey my ideas here in this format because I see them so vividly in my imagination yet fail to articulate in words or through visual expression (I never developed good drawing skills). I will just start listing out ideas in text and may perhaps upload images to accompany them (I have hundreds of loose-leaf or notebook-bound pages with notes, sketches and storyboards).
 
-I really feel like James Halliday.
-
 ## Game Ideas
 (will add descriptions and continually update list over time)
 
