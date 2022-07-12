@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/bruce_irl">
+<a href="https://twitter.com/astralvitz">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
@@ -33,6 +33,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/bruce_irl?style=social)](https://twitter.com/intent/follow?screen_name=bruce_irl) [![GitHub followers](https://img.shields.io/github/followers/astralvitz?label=Follow&style=social)](https://github.com/astralvitz/?tab=follow)
+[![Twitter Follow](https://img.shields.io/twitter/follow/astralvitz?style=social)](https://twitter.com/intent/follow?screen_name=astralvitz) [![GitHub followers](https://img.shields.io/github/followers/astralvitz?label=Follow&style=social)](https://github.com/astralvitz/?tab=follow)
 
 </div>
