@@ -8,7 +8,7 @@
 
 - 👨‍💻 I'm just a guy who loves a bit of everything. Vocationally, I love to code, think through complex problems, ideate innovative apps & games, design solutions, and constantly learn new technologies & methodologies
 - 👀 Focusing on web3, games and human & environmental impact projects
-- 🌱 I’m currently learning Javascript, Node, React, React Native, databases, Cloud hosting, web3 & smart contrats, Unity & AI
+- 🌱 I’m currently learning Javascript, Node, React & React Native, databases, cloud hosting, web3 & smart contracts, Unity & AI
 - ❗ Actively looking for a new employment opportunity
 - 📈 Working on multiple projects behind-the-scenes including two startups
 - 📝 Journaling my development journey since July 2022 https://astralvitz.github.io/
