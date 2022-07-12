@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><img src="sc_warpgate.gif" /> 👋 Hi, I’m Bruce AKA Lavitz Star</h1>
+<h1><img align="left" src="sc_warpgate.gif" width="72px" /> 👋 Hi, I’m Bruce AKA Lavitz Star <img align="right" src="lavi.gif" width="72px" /></h1>
 
 ### Developer, Creative, Skill Collector, Eternal Student, Life Enjoyer
 
@@ -13,7 +13,7 @@
 
 <img align="right" src="wizard.gif" />
 
-Connect with me on
+# Let's connect!
 
 <a href="https://www.linkedin.com/in/brobin22/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -22,5 +22,11 @@ Connect with me on
 <a href="https://twitter.com/bruce_irl">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
+
+<a href="https://www.instagram.com/astralvitz/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/bruce_irl?style=social)](https://twitter.com/intent/follow?screen_name=bruce_irl) [![GitHub followers](https://img.shields.io/github/followers/astralvitz?label=Follow&style=social)](https://github.com/astralvitz/?tab=follow)
 
 </div>
