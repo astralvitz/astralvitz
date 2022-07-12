@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><img align="left" src="sc_warpgate.gif" width="72px" /> 👋 Good Tidings! I’m Bruce AKA Lavitz Star 💫 <img align="right" src="lavi.gif" width="72px" /></h1>
+<h1><img align="left" src="sc_warpgate.gif" width="72px" /> 👋 Good Tidings! I’m Bruce aka Lavitz Star 💫 <img align="right" src="lavi.gif" width="72px" /></h1>
 
 ### Developer, Creative, Skill Collector, Eternal Student, Life Enjoyer
 
