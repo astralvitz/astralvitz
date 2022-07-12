@@ -3,8 +3,9 @@
 - website for high school Calculus teacher (2012)
 - website for Theta Tau local chapter (2014)
 - website for RamHacks (2015)
-- 2 websites for WoW guilds (2016, 2019)
+- 3 websites for WoW guilds (2016, 2018, 2019)
 - 2 websites for hosting video game tutorials & guides (2012, 2019)
+--- Wrote guides for WoW (2012 & 2019-2020), Maplestory 2 (2018)
 - Project Ziggurat: Discord bot starter, and multiple bots
 - Lyric tweet bot made w/ AWS Lambda & Contentful
 - Ported over an old fan site: http://thelegendofdragoon.herokuapp.com (now integrating content into https://legendofdragoon.org/)
@@ -19,6 +20,6 @@
 - Wonder prototype (2016): short turn-based 1v1 strategy game, taking actions to either defend, scout or attack (with various attack styles and systems). Like Dwarf Tower but simpler and before I knew about it. Intentionally low-res graphics, in-browser and on mobile, quick games w/ aesthetic progression systems.
 - Blueman's Fateful Return Home (2020): A Mario-like platformer for a Unity Connect challenge "Boss Fight". Picked up Unity again for a couple weeks to enter a small community competition. https://play.unity.com/mg/2d/blueman-s-fateful-return-home
 
-I've also made other random things like multiple YouTube channels with hundreds of videos, a plethora of random digital art including forum signatures, MLG GameBattles team logos, personal logos, graphics for political campaigns & education websites, sprite art for games, etc. And I've done random things like competed in video game competitions (winning a few 2010-2013), streamed gaming before Twitch was a thing (2009-2012), DJ'd house parties and events ("CA$HTAG" 2014-2016), made a few electronic mixes with FL Studio & Ableton, experimented making chip-tune with MilkyTracker, and have a rap album in production to be released 2022 titled "Moraine". I have several screenplay and book ideas I'd love to write, too.
+I've also made other random things like multiple YouTube channels with hundreds of videos, and a plethora of random digital art including forum signatures, MLG GameBattles team logos, personal logos, graphics for political campaigns & education websites, sprite art for games, etc. And I've done random things like competed in video game competitions (Halo 3, Halo Wars, Gears of War 2, Starcraft 2, Counter Strike: Source), streamed gaming before Twitch was a thing (2010-2012), DJ'd house parties and events ("CA$HTAG" 2014-2016), made a few electronic mixes with FL Studio & Ableton, experimented making chip-tune with MilkyTracker, and have a rap album in production to be released 2022 titled "Moraine". I have several screenplay and book ideas I'd love to write, too.
 
 I just like thinking about & doing random things.
