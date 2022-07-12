@@ -13,7 +13,7 @@
 - 📈 Working on multiple projects behind-the-scenes including two startups
 - 📝 Journaling my development journey since July 2022 https://astralvitz.github.io/
 - 💡 Some game & app ideas & other things https://github.com/astralvitz/astralvitz/
-- 🛰 Lots more to come! 
+- 🚧 Lots more to come -- Always iterating 🛰
 
 <div align="center">
 
