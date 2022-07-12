@@ -1,15 +1,21 @@
 <div align="center">
 
-<h1><img align="left" src="sc_warpgate.gif" width="72px" /> 👋 Hi, I’m Bruce AKA Lavitz Star <img align="right" src="lavi.gif" width="72px" /></h1>
+<h1><img align="left" src="sc_warpgate.gif" width="72px" /> 👋 Good Tidings! I’m Bruce AKA Lavitz Star 💫 <img align="right" src="lavi.gif" width="72px" /></h1>
 
 ### Developer, Creative, Skill Collector, Eternal Student, Life Enjoyer
 
-- 💫 I'm returning to coding after a year-long hiatus
-- 👀 I’m interested in... everything! Focusing on web3, games and human & environmental impact projects
+</div>
+
+- 👨‍💻 I'm just a guy who loves a bit of everything. Vocationally, I love to code, think through complex problems, ideate innovative apps & games, design solutions, and constantly learn new technologies & methodologies
+- 👀 Focusing on web3, games and human & environmental impact projects
 - 🌱 I’m currently learning Javascript, Node, React, React Native, databases, Cloud hosting, web3 & smart contrats, Unity & AI
-- 📫 Reach me on twitter https://twitter.com/astralvitz
-- 📝 Journaling my development journey https://astralvitz.github.io/
-- 💡 Some game & app ideas & other things: https://github.com/astralvitz/astralvitz/
+- ❗ Actively looking for a new employment opportunity
+- 📈 Working on multiple projects behind-the-scenes including two startups
+- 📝 Journaling my development journey since July 2022 https://astralvitz.github.io/
+- 💡 Some game & app ideas & other things https://github.com/astralvitz/astralvitz/
+- 🛰 Lots more to come! 
+
+<div align="center">
 
 <img align="right" src="wizard.gif" />
 
