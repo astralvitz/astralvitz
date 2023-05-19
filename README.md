@@ -22,4 +22,3 @@
 <img align="center" src="lavi.gif" width="72px" />
 
 </div>
-# astralvitz
