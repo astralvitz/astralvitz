@@ -6,9 +6,9 @@
 
 </div>
 
-- 👨‍💻 I'm just a guy who loves a bit of everything. Vocationally, I love to code, think through complex problems, ideate innovative apps & games, design solutions, and constantly learn new technologies & methodologies
-- 👀 Focusing on helping small businesses survive & thrive, and pursuing game design dream
-- 🌱 I’m currently learning React & Next.js & TailwindCSS, cloud hosting, web3 & smart contracts, Unity, AI
+- 👨‍💻 I'm just a guy who loves a bit of everything. Vocationally, I love to code, think through complex problems, ideate innovative apps & games, design solutions, and constantly learn new technologies & methodologies.
+- 👀 Focusing on helping small businesses survive & thrive, and building a more fun & free web. with a long-term pursuing game design dream.
+- 🌱 I’m currently learning React & Next.js & TailwindCSS, cloud hosting, web3 & smart contracts, Unity, AI.
 - 📈 Working on multiple projects behind-the-scenes
 
 <div align="center">
