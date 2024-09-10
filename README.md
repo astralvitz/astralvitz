@@ -8,7 +8,7 @@
 
 - 👨‍💻 I'm just a guy who loves a bit of everything. Vocationally, I love to code, design & edit multimedia, ideate innovative apps & games, seek regenerative solutions, and share my learnings of new technologies & methodologies.
 - 👀 Focusing on helping small businesses survive & thrive, empowering non-profit organizations, and building a more fun & free web. Long-game pursuing my game design dreams.
-- 🌱 I’m currently learning modern Wordpress, React & Next.js & TailwindCSS, cloud hosting, web3 & smart contracts, Unity, AI.
+- 🌱 I’m currently learning modern Wordpress, React.js, Next.js, TailwindCSS, GSAP, Three.js (React Fiber, Drei, Leva...), Web3, Unity, AI.
 - 🏹 Hobbies include archery, martial arts, cooking, gym, traveling, attending events, adventuring, reading, gardening, occassionally playing RTS games with friends, and more.
 
 <div align="center">
