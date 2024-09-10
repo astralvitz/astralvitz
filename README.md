@@ -15,10 +15,6 @@
 
 <img align="right" src="wizard.gif" />
 
-Stay tuned...
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/astralvitz?style=social)](https://twitter.com/intent/follow?screen_name=astralvitz)
-
 <img align="center" src="lavi.gif" width="72px" />
 
 </div>
