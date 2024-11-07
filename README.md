@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><img align="left" src="wizardmagic.gif" width="120px" /> Good Tidings <img align="right" src="sc_warpgate.gif" width="72px" /></h1>
+<h1><img align="left" src="wizardmagic.gif" width="120px" /> Good Tidings! <img align="right" src="sc_warpgate.gif" width="72px" /></h1>
 
 ### Developer, Creative, Skill Collector, Eternal Student, Life Enjoyer
 
